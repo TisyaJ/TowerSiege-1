@@ -99,4 +99,3 @@ function mouseReleased(){
    slingShot.fly(); 
     }
   
-//cadetblue, rosybrown,wheat,palevioletred,salmon,lightcoral,indianred,crimson,lavenderblush,lavender,thistle
